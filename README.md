@@ -1,4 +1,4 @@
 # C-Programs
 These are my c programs
 <br>
-Author- Abhishek Mazumder
+Author- Abhishek Mazumder(Ninja)
